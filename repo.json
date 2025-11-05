@@ -1,0 +1,13 @@
+﻿{
+  "name": "RavenScans Source",
+  "sources": [
+    {
+      "id": "com.ravenscans",
+      "name": "RavenScans",
+      "lang": "en",
+      "nsfw": true,
+      "version": 1,
+      "aix": "sources/com.ravenscans.aix"
+    }
+  ]
+}
